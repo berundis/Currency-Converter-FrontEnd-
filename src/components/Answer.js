@@ -1,7 +1,6 @@
 import React from 'react' 
 
 const Answer = (props) => {
-  console.log("ANSWER", props)
   return (
     <div style={{width: '80%', margin: 'auto', marginBottom: '30px', borderStyle: 'solid', padding: '15px'}}>
       <h1>Results</h1>
